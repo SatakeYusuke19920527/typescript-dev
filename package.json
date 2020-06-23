@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SatakeYusuke19920527/typescript-dev/issues"
   },
-  "homepage": "https://github.com/SatakeYusuke19920527/typescript-dev#readme"
+  "homepage": "https://github.com/SatakeYusuke19920527/typescript-dev#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
 }
